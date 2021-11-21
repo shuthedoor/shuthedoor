@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @shuthedoor
+# hire me
+
+
+## 🛠 Skills
+cooking
+
+
+
+## - 👋 Hi, I’m @shuthedoor
 - 👀 I’m interested in ...
   - Walrus
 - 🌱 I’m currently learning ...
