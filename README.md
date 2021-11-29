@@ -2,8 +2,8 @@
 
 
 ## 🛠 Skills
-cooking
-dreaming
+- cooking
+- dreaming
 
 
 ## - 👋 Hi, I’m @shuthedoor
