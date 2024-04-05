@@ -2,6 +2,7 @@
 
 
 ## 🛠 Skills
+- french
 - cooking
 - dreaming
 
